@@ -3,7 +3,7 @@ DS Final Project
 
 The original dataset can be found here: https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
 
-The dashboard can be found here: menagerie
+The dashboard can be found here: [menagerie](https://ds-4003-13-pld0.onrender.com)
 
 ## Overview
 For the enjoyment of music fans, this dashboard provides an in-depth analysis of global music trends from 2010 to 2019. Through interactive visualizations and data exploration tools, users can explore questions related to genre popularity, artist trends, and feature correlations. The dashboard uses data collected by Billboard and Spotify to give users insights into what influences music trends. It also serves as a platform for finding new music and tracking how different musical genres have changed over the last ten years. With features such as an interactive word cloud, genre word bank, heatmap, scatter plot, and customizable dropdown menus, the dashboard allows users to analyze the dynamics of the music industry.
